@@ -7,3 +7,7 @@ git add .
 git commit -m "Mensagem do commit"
 
 git push origin main
+
+* Agora estamos na branch nova
+
+git checkout -b "nome_da_branch"
